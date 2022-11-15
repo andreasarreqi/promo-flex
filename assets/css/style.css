@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
 *{
     margin: 0;
@@ -31,7 +30,7 @@ h1, h2{
 
 #logo {
     border: 2px solid black;
-   
+    box-shadow: 1px 1px 19px #020202;
     border-radius: 20px;
 }
 
@@ -44,6 +43,7 @@ h1, h2{
     line-height: 100px;
     letter-spacing: 40px;
     word-spacing: 20px;
+   
    
 }
 #navigation li{
@@ -103,3 +103,168 @@ h3{
     
   }
 
+#events>h2 {
+    font-size: 50px;
+    margin: 60px;
+    padding: 30px;
+    border-bottom: 1px solid black;
+    font-weight: 500;
+    width: 20%;
+    
+}
+#events > p {
+    font-size: 30px;
+   text-align: center;
+    margin: 60px;
+    padding: 10px;
+    width: 90%;
+}
+
+#events a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-align: center;
+    left: 35%;
+    top: 40px;
+    border-radius: 20px;
+    width: 100%;
+    
+}
+
+.table {
+    position: relative;
+    text-align: center;
+    left: 20%;
+    font-size: 30px;
+    border: 1px solid rgb(47, 46, 46);
+    border-radius: 20px;
+    height: 450px;
+    width: 60%;
+}
+
+#events a:hover {
+    background-color: #752d2d;
+    color: #fafafa;
+
+}
+
+#contact h2 {
+    font-size: 50px;
+    margin:90px 80px 30px 80px;
+    padding: 30px;
+    border-bottom: 1px solid black;
+    font-weight: 500;
+    width: 20%;
+}
+
+.links a{
+    text-decoration: none;
+}
+.links{
+     text-align: center;
+    margin: 60px;
+   
+   
+}
+.links i {
+    font-size: 50px;
+    text-align: center;
+    margin: 50px;
+}
+
+#contact h4 {
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: 10px;
+    letter-spacing: 4px;
+    margin-left: 60px;
+    padding: 50px;
+    font-size: 25px;
+    
+}
+
+
+.section h2{
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+    font-weight: 600;
+ 
+    
+}
+
+#form
+ {
+    
+   box-sizing: border-box;
+       height: 450px;  
+    width: 400px;
+  margin: 70px auto;
+    padding: 50px;
+    top:0;
+    border: 2px solid black;
+}
+
+
+input[type=text], input[type=email]{
+    width: 100%;
+    height: 25px;
+    margin: 30px;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+
+
+
+label {
+    font-size: 20px;
+    text-transform:uppercase;
+    border-bottom: 1px solid black;
+
+}
+
+.area {
+    
+    font-size: 15px;
+    font-weight: bold;
+    height: 30px;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+
+#submit{
+    margin-top: 20%;
+    margin-left: 27%;
+    width: 45%;
+    height: 15%;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 5%;
+    font-size: 26px;
+    font-weight: bold;
+    
+}
+
+#submit:hover {
+    background-color: #752d2d;
+    color: #fafafa;
+}
+
+
+#gallery {
+    background-repeat: no-repeat;
+   text-align: center;
+    column-count: 1;
+     
+}
