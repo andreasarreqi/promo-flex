@@ -1,4 +1,4 @@
-[@https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md](https://andreasarreqi.github.io/promo-flex/)
+@(https://andreasarreqi.github.io/promo-flex/)
 # Promo Flex
 
 Promo Flex a company in the bussiness of promoting events. Bringing people together through festivals, concerts ,events and more. And all of our events have one thing in common, music.
