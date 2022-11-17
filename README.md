@@ -6,7 +6,7 @@ And what better way to achieve our goal than through music.
 
 
 
-![Responsice Mockup](Screenshot 2022-11-17 044924.png)
+![Responsice Mockup](![Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202376074-0742f316-84f3-441e-a485-7262eec7ced7.png))
 
 ## Features 
 
