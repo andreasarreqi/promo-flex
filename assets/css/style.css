@@ -384,15 +384,190 @@ label {
 
 
 @media screen and (max-width: 800px){
-    html{
-    width: 100%;
-    text-align: center;
+    
+    #logo {
+        letter-spacing: 10px;
+        font-size: 35px;
     }
+    #navigation{
+        display: inline-block;
+        word-spacing: 20px;
+        text-align: center;
+        font-size: 26px;
+    }
+    #events h2, p{
+        text-align: center;
+        margin: 0 auto;
+        font-size: 30px;
+    }
+    
+    
     #events a {
         margin: 0 auto;
+        font-size: 25px;
     }
+    .table td{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    #contact h2{
+        text-align: center;
+        margin: 0 auto;
+        font-size: 30px;
+        margin-top: 15%;
+        padding-bottom: 20px;
+    }
+    #contact h4{
+        text-align: center;
+        font-size: 20px;
+    }
+    #contact i {
+        padding: 13px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    margin: 0 auto;
+    }
+    
 }
 
 
+@media screen and (max-width: 500px) {
+        
+    #logo {
+        box-sizing: border-box;
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+        letter-spacing: 10px;;
+        font-size: 30px;
+    }
+    #navigation{
+        display: inline-block;
+        word-spacing: 10px;
+        text-align: center;
+        font-size: 25px;
+    }
 
     
+    #events h2 {
+        font-size: 20px;
+    }
+    
+    #events p {
+        height: fit-content;
+       width: fit-content;
+       text-align: center;
+        display:contents;
+        display: table-row-group;
+       row-gap: 10px;
+       justify-content: space-evenly;
+       font-size: 15px;
+       
+    }
+    
+    #events a {
+        font-size: 15px;
+    }
+
+ .table tr{
+    
+    margin-top: 20px;
+    width:100%;
+    font-size: 15px;
+ }
+
+ #contact h2 {
+    font-size: 20px;
+    text-align: center;
+ }
+ #contact h4 {
+    font-size: 15px;
+    margin: 0 auto;
+ }
+
+ #contact i {
+    padding: 13px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 0 auto;
+ }
+
+}
+    
+@media screen and (max-width: 500px) {
+        
+    #logo {
+        box-sizing: border-box;
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+        letter-spacing: 10px;;
+        font-size: 30px;
+    }
+    #navigation{
+        display: inline-block;
+        word-spacing: 10px;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    
+    #events h2 {
+        font-size: 20px;
+    }
+    
+    #events>p {
+        height: fit-content;
+       width: fit-content;
+       text-align: center;
+        display:contents;
+        display: table-row-group;
+       row-gap: 10px;
+       justify-content: space-evenly;
+       font-size: 15px;
+    }
+    
+    #events a {
+        font-size: 15px;
+    }
+
+ .table tr{
+    
+    margin: 10px ;
+    width:100%;
+    font-size: 15px;
+ }
+
+ #contact h2 {
+    font-size: 20px;
+ }
+ #contact h4 {
+    font-size: 15px;
+ }
+ #form {
+     margin: 0 auto;
+     box-sizing: border-box;
+     text-align: center;
+     width: 100%;
+     word-spacing: 20px;
+ }
+ label {
+    font-size: 10px bold;
+    text-align: center;
+    
+ } 
+ 
+ input[type=text], input[type=email]{
+    margin: 35px auto;
+    width: 100%;
+    height: 15px;
+    
+
+  }
+ #submit {
+    margin-right: 40px;
+    width: 50%;
+ }
+}
