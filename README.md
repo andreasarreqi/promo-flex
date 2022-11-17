@@ -6,7 +6,7 @@ And what better way to achieve our goal than through music.
 
 
 
-![Responsice Mockup](![Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202376074-0742f316-84f3-441e-a485-7262eec7ced7.png))
+[Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202376074-0742f316-84f3-441e-a485-7262eec7ced7.png))
 
 ## Features 
 
@@ -22,25 +22,25 @@ And what better way to achieve our goal than through music.
   -A ticket section that allows you to book a tciket. 
   -The contact section that provides our email address and all of our social media.
 
-![Nav Bar][![nav](https://user-images.githubusercontent.com/114533841/202376237-b101d6f9-961f-47f0-9dd2-a79e4a07f1b8.png)]
+![nav](https://user-images.githubusercontent.com/114533841/202376237-b101d6f9-961f-47f0-9dd2-a79e4a07f1b8.png)
 
 - __Capture The Moment__
 
   Capture every moment with us. With outsanding events and music coming to bring you joy.
 
-![Welcome](![events-photo](https://user-images.githubusercontent.com/114533841/202376316-334bfce1-d184-48eb-91ea-2a8ae8bd4f9a.png))
+(![events-photo](https://user-images.githubusercontent.com/114533841/202376316-334bfce1-d184-48eb-91ea-2a8ae8bd4f9a.png))
 
 - __Events__
 
   Heres an short introducion about us. When we started and how we came to be.
 
-![Events](![events](https://user-images.githubusercontent.com/114533841/202376424-6b98c037-833c-4de4-aded-1205531b9f13.png))
+(![events](https://user-images.githubusercontent.com/114533841/202376424-6b98c037-833c-4de4-aded-1205531b9f13.png)
 
 - __Upcoming Event__
 
 
 
-![Upcoming Events](![upcoming](https://user-images.githubusercontent.com/114533841/202376500-104b272f-76a6-4094-8f13-4909aa48ea97.png))
+(https://user-images.githubusercontent.com/114533841/202376500-104b272f-76a6-4094-8f13-4909aa48ea97.png)
 
   - A table illustrating the upcoming of few of the most famous celebrities there are with  many records under their belts.
   
@@ -51,19 +51,19 @@ And what better way to achieve our goal than through music.
 
   - The contact sectiou provides you with all of our social media including our email address for any inquiries needed.
 
-![Contact](![contact](https://user-images.githubusercontent.com/114533841/202376724-b43e7fa2-933d-4f58-a6b6-ebf220c0920b.png))
+[contact](https://user-images.githubusercontent.com/114533841/202376724-b43e7fa2-933d-4f58-a6b6-ebf220c0920b.png)
 
 - __Gallery__
 
   -Our gallery hold a outstanding number of picture but unfortunately we could only share a few with everyone. 
 
-![Gallery](![gallery](https://user-images.githubusercontent.com/114533841/202376808-7de71056-c92f-43c1-8196-53a3cd31241b.png))
+(![gallery](https://user-images.githubusercontent.com/114533841/202376808-7de71056-c92f-43c1-8196-53a3cd31241b.png)
 
 - __The Tickets Page__
 
   - The tickets page gives you access to book a ticket with just a click.
 
-![Tickets](![tickets](https://user-images.githubusercontent.com/114533841/202376901-6a27a2cd-616e-45cb-9684-82e43e4751d0.png))
+(![tickets](https://user-images.githubusercontent.com/114533841/202376901-6a27a2cd-616e-45cb-9684-82e43e4751d0.png)
 
 
 
@@ -89,11 +89,13 @@ If this section grows too long, you may want to split it off into a separate fil
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandreasarreqi.github.io%2Fpromo-flex%2F)
 - CSS
+  
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
-  [Lighthouse Mobile Accessibility](![Mobile](https://user-images.githubusercontent.com/114533841/202377267-c0e87c52-f0a9-4cea-b606-9694dc24cbd7.png)
-)
-  [Lighthouse Desktop Accessibility](![Desktop](https://user-images.githubusercontent.com/114533841/202377425-3c24d7c9-954f-44a1-be06-6441d3113ef9.png)
-)
+  
+  (![Mobile](https://user-images.githubusercontent.com/114533841/202377267-c0e87c52-f0a9-4cea-b606-9694dc24cbd7.png)
+
+ (![Desktop](https://user-images.githubusercontent.com/114533841/202377425-3c24d7c9-954f-44a1-be06-6441d3113ef9.png)
+
 
 
 ### Unfixed Bugs
