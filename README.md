@@ -92,9 +92,11 @@ If this section grows too long, you may want to split it off into a separate fil
   
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
   
-  (https://user-images.githubusercontent.com/114533841/202377267-c0e87c52-f0a9-4cea-b606-9694dc24cbd7.png)
+  Lighthouse Desktop & Mobile :
+  
+  ![Desktop](https://user-images.githubusercontent.com/114533841/202379314-43a2568b-8a47-4f5e-b101-41e12ad736bd.png)
 
- (https://user-images.githubusercontent.com/114533841/202377425-3c24d7c9-954f-44a1-be06-6441d3113ef9.png)
+ ![Mobile](https://user-images.githubusercontent.com/114533841/202379363-71635e74-c7ba-43e9-8c04-7eebf1a887b9.png)
 
 
 
