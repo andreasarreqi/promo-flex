@@ -8,19 +8,20 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:rgb(224, 223, 223);
-  
+    
 }
 
 
 
-
-h1, h2{
+h1, h2{ 
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color:black;
     
 }
+
 
 #logo a {
     text-decoration: none;
@@ -58,7 +59,7 @@ h1, h2{
 }
 
 #navigation {
-    
+    font-size: 40px;
    text-align:center;
    line-height: 100px;
    font-size:40px;
@@ -68,21 +69,28 @@ word-spacing: 100px;
     
 }
 
+
+
 #navigation a:hover {
     border-bottom: 2px solid black;
-   
+    
 }
+
 
 
 .image {
-    
-    position: relative;
-    text-align: center;
-    width: 100%;
-    height: 40%;
-    margin-top: 50px;
-  
+    background-color:#000426;
+        position: relative;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        margin-top: 60px;
+        background-size: cover;
+        overflow: hidden;
+       
 }
+    
+
 
 h3{
     text-transform: uppercase;
@@ -103,7 +111,11 @@ h3{
     
   }
 
+
+
+
 #events>h2 {
+   
     font-size: 50px;
     margin: 60px;
     padding: 30px;
@@ -131,15 +143,17 @@ h3{
     text-align: center;
     left: 35%;
     top: 40px;
-    border-radius: 20px;
-    width: 100%;
+    
+   margin-left: 13%;
+    border-radius: 10px;
+   
     
 }
 
 .table {
-    position: relative;
+    margin: 0 auto;
     text-align: center;
-    left: 20%;
+    left: 18%;
     font-size: 30px;
     border: 1px solid rgb(47, 46, 46);
     border-radius: 20px;
@@ -150,7 +164,8 @@ h3{
 #events a:hover {
     background-color: #752d2d;
     color: #fafafa;
-
+    
+    
 }
 
 #contact h2 {
@@ -162,6 +177,11 @@ h3{
     width: 20%;
 }
 
+.links i:hover {
+    transform: scale(1.7);
+}
+
+
 .links a{
     text-decoration: none;
 }
@@ -172,7 +192,7 @@ h3{
    
 }
 .links i {
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     margin: 50px;
 }
@@ -190,6 +210,7 @@ h3{
 
 
 .section h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative;
     font-size: 40px;
     text-align: center;
@@ -225,7 +246,8 @@ input[type=text], input[type=email]{
 
 
 label {
-    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     text-transform:uppercase;
     border-bottom: 1px solid black;
 
@@ -245,26 +267,132 @@ label {
 
 #submit{
     margin-top: 20%;
-    margin-left: 27%;
+    margin-left: 25%;
     width: 45%;
     height: 15%;
     box-sizing: border-box;
     border: 2px solid black;
-    border-radius: 5%;
+    border-radius: 6%;
     font-size: 26px;
     font-weight: bold;
-    
+   
 }
 
 #submit:hover {
     background-color: #752d2d;
     color: #fafafa;
+    transform: scale(1.2);
 }
+
+
+
 
 
 #gallery {
+    width: 100%;
+    height: auto;
     background-repeat: no-repeat;
+    overflow: hidden;
    text-align: center;
     column-count: 1;
+     margin: 0 auto;
      
 }
+
+
+
+@media screen and (max-width: 1200px){
+    
+    body  {
+        width: 65%;
+        height: auto;
+        margin:0 auto;
+    }
+    
+    
+
+    }
+    #navigation {
+        padding: 30px 0;
+        margin-top: 0;
+        
+    }
+
+    #events {
+        width:100%;
+        padding: 0;
+    }
+
+    #events a{
+        left: 25%;
+      }
+
+    #contact {
+        width: 100%;
+        
+        float: left;
+    }
+
+    h3 {
+        word-spacing: 4px;
+    }
+
+    .image img{
+        box-sizing: border-box;
+        width: 100%;
+        
+    }
+    #gallery img{
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+
+
+
+
+
+@media screen and (max-width: 950px){
+    
+
+    #logo{
+        left: -10%;    
+        width: auto;    
+    }
+
+    
+    #events{
+        text-align: center;
+    }
+
+    #events a {
+        box-sizing: border-box;
+       left: -1%;
+        
+    }
+
+    .table {
+       margin: 0 auto;
+    }
+    #gallery img {
+        
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+}
+
+
+@media screen and (max-width: 800px){
+    html{
+    width: 100%;
+    text-align: center;
+    }
+    #events a {
+        margin: 0 auto;
+    }
+}
+
+
+
+    
