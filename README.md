@@ -6,7 +6,7 @@ And what better way to achieve our goal than through music.
 
 
 
-[Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202376074-0742f316-84f3-441e-a485-7262eec7ced7.png))
+[Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202376074-0742f316-84f3-441e-a485-7262eec7ced7.png)
 
 ## Features 
 
@@ -28,13 +28,13 @@ And what better way to achieve our goal than through music.
 
   Capture every moment with us. With outsanding events and music coming to bring you joy.
 
-(![events-photo](https://user-images.githubusercontent.com/114533841/202376316-334bfce1-d184-48eb-91ea-2a8ae8bd4f9a.png))
+(https://user-images.githubusercontent.com/114533841/202376316-334bfce1-d184-48eb-91ea-2a8ae8bd4f9a.png)
 
 - __Events__
 
   Heres an short introducion about us. When we started and how we came to be.
 
-(![events](https://user-images.githubusercontent.com/114533841/202376424-6b98c037-833c-4de4-aded-1205531b9f13.png)
+[events](https://user-images.githubusercontent.com/114533841/202376424-6b98c037-833c-4de4-aded-1205531b9f13.png)
 
 - __Upcoming Event__
 
@@ -57,13 +57,13 @@ And what better way to achieve our goal than through music.
 
   -Our gallery hold a outstanding number of picture but unfortunately we could only share a few with everyone. 
 
-(![gallery](https://user-images.githubusercontent.com/114533841/202376808-7de71056-c92f-43c1-8196-53a3cd31241b.png)
+(https://user-images.githubusercontent.com/114533841/202376808-7de71056-c92f-43c1-8196-53a3cd31241b.png)
 
 - __The Tickets Page__
 
   - The tickets page gives you access to book a ticket with just a click.
 
-(![tickets](https://user-images.githubusercontent.com/114533841/202376901-6a27a2cd-616e-45cb-9684-82e43e4751d0.png)
+(https://user-images.githubusercontent.com/114533841/202376901-6a27a2cd-616e-45cb-9684-82e43e4751d0.png)
 
 
 
@@ -92,9 +92,9 @@ If this section grows too long, you may want to split it off into a separate fil
   
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
   
-  (![Mobile](https://user-images.githubusercontent.com/114533841/202377267-c0e87c52-f0a9-4cea-b606-9694dc24cbd7.png)
+  (https://user-images.githubusercontent.com/114533841/202377267-c0e87c52-f0a9-4cea-b606-9694dc24cbd7.png)
 
- (![Desktop](https://user-images.githubusercontent.com/114533841/202377425-3c24d7c9-954f-44a1-be06-6441d3113ef9.png)
+ (https://user-images.githubusercontent.com/114533841/202377425-3c24d7c9-954f-44a1-be06-6441d3113ef9.png)
 
 
 
