@@ -6,7 +6,7 @@ And what better way to achieve our goal than through music.
 
 
 
-[Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202376074-0742f316-84f3-441e-a485-7262eec7ced7.png)
+![Screenshot 2022-11-17 044924](https://user-images.githubusercontent.com/114533841/202379874-1fbf5e25-e02a-4bc1-aead-fc0f03162b24.png)
 
 ## Features 
 
@@ -57,13 +57,13 @@ And what better way to achieve our goal than through music.
 
   -Our gallery hold a outstanding number of picture but unfortunately we could only share a few with everyone. 
 
-(https://user-images.githubusercontent.com/114533841/202376808-7de71056-c92f-43c1-8196-53a3cd31241b.png)
+[Gallery](https://user-images.githubusercontent.com/114533841/202376808-7de71056-c92f-43c1-8196-53a3cd31241b.png)
 
 - __The Tickets Page__
 
   - The tickets page gives you access to book a ticket with just a click.
 
-(https://user-images.githubusercontent.com/114533841/202376901-6a27a2cd-616e-45cb-9684-82e43e4751d0.png)
+[Tickets](https://user-images.githubusercontent.com/114533841/202376901-6a27a2cd-616e-45cb-9684-82e43e4751d0.png)
 
 
 
@@ -96,8 +96,7 @@ If this section grows too long, you may want to split it off into a separate fil
   
   ![Desktop](https://user-images.githubusercontent.com/114533841/202379314-43a2568b-8a47-4f5e-b101-41e12ad736bd.png)
 
- ![Mobile](https://user-images.githubusercontent.com/114533841/202379363-71635e74-c7ba-43e9-8c04-7eebf1a887b9.png)
-
+![Mobile](https://user-images.githubusercontent.com/114533841/202380028-531ddef6-41c3-4107-b01b-69130f27e357.png)
 
 
 ### Unfixed Bugs
