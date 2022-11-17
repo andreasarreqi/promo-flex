@@ -1,4 +1,4 @@
-@https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md
+[@https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md](https://andreasarreqi.github.io/promo-flex/)
 # Promo Flex
 
 Promo Flex a company in the bussiness of promoting events. Bringing people together through festivals, concerts ,events and more. And all of our events have one thing in common, music.
@@ -28,38 +28,38 @@ And what better way to achieve our goal than through music.
 
   Capture every moment with us. With outsanding events and music coming to bring you joy.
 
-![Welcome](events-photo.png)
+![Welcome](../media/events-photo.png)
 
 - __Events__
 
   Heres an short introducion about us. When we started and how we came to be.
 
-![Events](events.png)
+![Events](../media/events.png)
 
 - __Upcoming Event__
 
   - A table illustrating the upcoming of few of the most famous celebrities there are with  many records under their belts.
   
 
-![Meetup Times](upcoming.png)
+![Meetup Times](../media/upcoming.png)
 
 - __Contact__ 
 
   - The contact sectiou provides you with all of our social media including our email address for any inquiries needed.
 
-![Contact](contact.png)
+![Contact](../media/contact.png)
 
 - __Gallery__
 
   -Our gallery hold a outstanding number of picture but unfortunately we could only share a few with everyone. 
 
-![Gallery](gallery.png)
+![Gallery](../media/gallery.png)
 
 - __The Tickets Page__
 
   - The tickets page gives you access to book a ticket with just a click.
 
-![Tickets](tickets.png)
+![Tickets](../media/tickets.png)
 
 
 
